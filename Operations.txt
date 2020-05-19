@@ -1,0 +1,13 @@
+Grade calculator
+Norm Calculator (hypotenuse)
+Variance
+Std deviation
+Avg
+Median
+Mode
+3d cross_product
+
+More Lin Alg or Geometry maybe
+
+
+
